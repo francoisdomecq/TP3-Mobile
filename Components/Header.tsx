@@ -17,9 +17,8 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     height: 70,
-
     width: '100%',
-    backgroundColor: 'skyblue',
+    backgroundColor: 'steelblue',
   },
   textStyle: {
     marginTop: 30,
